@@ -14,6 +14,7 @@ const sendEmail = (body, res, message) => {
     //comment out this one if you use custom server/domain
     // tls: {
     //   rejectUnauthorized: false,
+    //   rejectUnauthorized: false,
     // },
   });
 
